@@ -10,7 +10,7 @@
     "cliff": "0.1.8",
     "mkdirp": "0.3.3",
     "pomelo-loader": "0.0.6",
-    "pomelo-rpc": "rain1017/pomelo-rpc",
+    "pomelo-rpc": "xianyinchen/pomelo-rpc",
     "pomelo-protocol": "0.1.6",
     "pomelo-admin": "xianyinchen/pomelo-admin",
     "pomelo-logger": "0.1.7",
