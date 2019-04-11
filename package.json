@@ -2,31 +2,6 @@
   "name": "pomelo",
   "version": "1.2.0",
   "private": false,
-  "homepage": "https://github.com/NetEase/pomelo",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/NetEase/pomelo.git"
-  },
-  "scripts": {
-    "test": "grunt"
-  },
-  "bugs": {
-    "url": "https://github.com/NetEase/pomelo/issues"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/NetEase/pomelo#license"
-    }
-  ],
-  "keywords": [
-    "pomelo",
-    "framework",
-    "game",
-    "web",
-    "realtime",
-    "server"
-  ],
   "dependencies": {
     "socket.io": "0.9.16",
     "async": "0.2.5",
@@ -40,7 +15,7 @@
     "pomelo-admin": "rain1017/pomelo-admin",
     "pomelo-logger": "0.1.7",
     "pomelo-scheduler": "0.3.9",
-    "ws": "0.8.0",
+    "ws": "1.1.5",
     "pomelo-protobuf": "0.4.0",
     "node-bignumber": "1.2.1",
     "commander": "2.0.0",
@@ -54,10 +29,6 @@
     "mocha": ">=0.0.1",
     "socket.io-client": "0.9.16",
     "muk": ">=0.0.1",
-    "grunt": "~0.4.2",
-    "grunt-mocha-test": "0.8.x",
-    "grunt-contrib-clean": "0.5.x",
-    "grunt-contrib-jshint": "~0.8.0",
     "blanket": "~1.1.6"
   }
 }
