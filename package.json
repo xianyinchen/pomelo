@@ -3,7 +3,7 @@
   "version": "1.2.0",
   "private": false,
   "dependencies": {
-    "socket.io": "1.0.6",
+    "socket.io": "1.6.0",
     "async": "0.2.5",
     "seq-queue": "0.0.5",
     "crc": "0.2.0",
